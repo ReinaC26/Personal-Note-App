@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 4000;
 connectDB();
 
 app.use(cors({
-  origin: "https://personal-note-app-123.vercel.app", 
+  origin: "https://personal-note-app-six.vercel.app", 
   credentials: true
 }));
 
