@@ -1,3 +1,5 @@
+Live Demo: https://personal-note-app-six-three.vercel.app/
+
 This is simple and interactive web application for creating, saving, and managing personal notes. Users also have the option to search for existed notes by keywords or filter them by color.
 
 Features
