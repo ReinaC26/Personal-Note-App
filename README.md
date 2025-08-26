@@ -7,14 +7,13 @@ Features
 - Edit & Save & Delete: Can update and save note content and title, and delete notes you no longer need.
 
 Tech Stack
+  Frontend:
+  - React
+  - Vite
+  - CSS
 
-Frontend:
-- React
-- Vite
-- CSS
-
-Backend:
-- Node.js
-- Express.js
-- MongoDB
+  Backend:
+  - Node.js
+  - Express.js
+  - MongoDB
 
