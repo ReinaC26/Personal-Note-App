@@ -6,7 +6,7 @@ Features
 - Create Notes: Easily create new notes by selecting a color from the sidebar.
 - Color Note Cards: Notes are color-coded based on user preference for easy organization.
 - Search & Filter: Find notes quickly using the search bar or filter them by color.
-- Edit & Save & Delete: Can update and save note content and title, and delete notes you no longer need with the use of a modal.
+- Edit & Save & Delete: Can update and save note content and title, and delete notes you no longer need in the form of a modal.
 
 Tech Stack
 
