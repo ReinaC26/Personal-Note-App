@@ -11,12 +11,13 @@ Features
 Tech Stack
 
   Frontend:
-  - React
-  - Vite
+  - React + Vite
   - CSS
 
   Backend:
   - Node.js
   - Express.js
+
+  Database:
   - MongoDB
 
